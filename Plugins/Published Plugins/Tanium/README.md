@@ -11,10 +11,10 @@ Establish communication between a Tanium instance and Copilot for Security using
 1. In a browser window, navigate to the Microsoft Copilot for Security home page. 
 
 2. Click Copilot for Security plugin. The Manage plugins modal window appears. 
-![image](https://github.com/shuhblam/copilot-for-security/assets/745064/ec05f712-7489-46a5-a2be-7576bca0b2f1)
+![image](https://github.com/cole-gillespie/copilot-for-security/assets/745064/ec05f712-7489-46a5-a2be-7576bca0b2f1)
 
 3. In the Custom section, click Add plugin. The Add a plugin modal window appears. 
-![image](https://github.com/shuhblam/copilot-for-security/assets/745064/5254358d-8e71-4a9d-ab11-3d39e4a88fb6)
+![image](https://github.com/cole-gillespie/copilot-for-security/assets/745064/5254358d-8e71-4a9d-ab11-3d39e4a88fb6)
 
 4. Select Who can use this plugin?.  
 
@@ -27,14 +27,14 @@ Establish communication between a Tanium instance and Copilot for Security using
 8. Select Modules > Connect > Overview. The Connect Overview page appears. 
 
 9. Click Settings. Then click Microsoft Copilot for Security.  
-![image](https://github.com/shuhblam/copilot-for-security/assets/745064/4c7c8e0d-6efc-48e2-874a-b6e6e022cde2)
+![image](https://github.com/cole-gillespie/copilot-for-security/assets/745064/4c7c8e0d-6efc-48e2-874a-b6e6e022cde2)
 
 10. Click Tanium Plugin Manifest URL Copy to copy the plugin manifest URL to the clipboard. 
 
 11. In Copilot for Security, select Upload as a link. Then paste the Tanium Plugin Manifest URL. 
 
 12. Click Add. The Set up Tanium Skills modal window appears. 
-![image](https://github.com/shuhblam/copilot-for-security/assets/745064/82e9ad22-5031-4494-98dc-bafb4dc8971b)
+![image](https://github.com/cole-gillespie/copilot-for-security/assets/745064/82e9ad22-5031-4494-98dc-bafb4dc8971b)
 
 13. In Tanium Console, click Tanium Instance URL Copy to copy the Tanium instance URL to the clipboard.  
 
